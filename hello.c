@@ -9,6 +9,9 @@ int main(int arg, char* argv[]){
 
     printf("develop branch created by SCM.\n");
 
+   
+    printf("function01 isd added by dev01.\n");
+
     printf("function02 isd added by dev02.\n");
 }
 
